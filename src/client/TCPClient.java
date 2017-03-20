@@ -5,7 +5,7 @@ import java.io.*;
 import java.net.*;
 public class TCPClient {
 	public static final String IP="192.168.56.1";
-	public static final int PORT=6789;
+	public static final int PORT=3000;
 
 	public static void main(String[] args)throws Exception {
 		String sentence, modifiedSentence;
